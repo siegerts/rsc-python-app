@@ -17,8 +17,20 @@
     "requirements.txt": {
       "checksum": "f3993fe6b978850a694d8d64e83b233b"
     },
+    ".gitignore": {
+      "checksum": "9ee3747d584b27849cdf424deb294e55"
+    },
+    "__pycache__/app.cpython-37.pyc": {
+      "checksum": "3df1211dbffe76d02dd069ef7a6a9103"
+    },
     "app.py": {
-      "checksum": "75e08453fa46fb6ee7835e323ce0860e"
+      "checksum": "9fa1aec94f7451375fb18abe2dc4ca0a"
+    },
+    "static/style.css": {
+      "checksum": "f49bd4d078ffd375f2deb76e0cdb5cf3"
+    },
+    "templates/index.html": {
+      "checksum": "363348173122618aea93dceb1496a4da"
     }
   }
 }
